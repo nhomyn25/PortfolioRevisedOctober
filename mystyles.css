@@ -1,0 +1,86 @@
+h1 {
+    font-size: 40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    color: navy
+    
+
+}
+h2 
+  {
+    padding: 0px;
+  }
+  
+h1 + h4 { 
+    margin-top: -20px; 
+}
+
+#skills {
+    margin-bottom: -15px; 
+}
+
+header {
+    background-color: bisque;
+}
+
+footer {
+    background-color: bisque;
+}
+
+hr {
+    color: navy;
+}
+.center-one {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: 30%;
+  }
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    text-align: center;
+  }
+
+.center-two {
+    display:block;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    text-align: center;
+  
+  }
+
+.center-list {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+h4 {
+    text-align: center;
+    padding-top: 5px;
+    color: navy;
+}
+
+body {
+   background-color: blanchedalmond;
+}
+
+p {
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+  }
